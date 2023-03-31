@@ -2,7 +2,7 @@
 
 Name:		python-%{module}
 Version:	4.0
-Release:	2
+Release:	3
 Summary:	Python Gettext po to mo file compiler
 License:	BSD
 Group:		Development/Python
